@@ -1,6 +1,6 @@
 <h1 align="center" id="title">Data Analyst Python Exercises</h1>
 
-<p id="description">A repository where I'll commit all the exercises related to Python applied on Data Analysis. This is part of my specialization in the Data Analysis course provided by the GrowDev Institution.
+<p id="description">A repository where I'll commit all the exercises related to Python applied on Data Analysis. This is part of my specialization in the Data Analysis course provided by the GrowDev Institution. All the activities will be in Portuguese-Brazil(PT-BR).
 <br>⚠️<b>INSIDE EVERY FOLDER</b>, there'll be a PDF File containing every activity statement about what each exercise consists.⚠️ </p>
 
   
