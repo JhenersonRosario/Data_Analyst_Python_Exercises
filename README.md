@@ -24,7 +24,7 @@ Here're some of the contents and projects which were provided along my formation
   
 <h2>💻 Built with</h2>
 
-Technologies used in the project:
+Technologies used in the projects:
 
 *  <a href="https://www.python.org"> Python</a>
 *  <a href="https://pandas.pydata.org"> Pandas</a>
