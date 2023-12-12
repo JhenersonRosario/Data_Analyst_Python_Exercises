@@ -4,9 +4,9 @@
 
   
   
-<h2>🧐 Features</h2>
+<h2>🧐 Contents</h2>
 
-Here're some of the project's best features:
+Here're some of the contents and projects which were provided along my formation:
 
 *   📈Datum Introduction.
 *   🐍Python Programming Introduction.
